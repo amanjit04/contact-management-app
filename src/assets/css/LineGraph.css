@@ -1,0 +1,18 @@
+.graph-container {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .loading-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .error-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: red;
+  }
+  

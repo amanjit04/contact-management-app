@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind Components;
+@tailwind utilities;
+
+body {
+  @apply bg-background text-gray-800;
+}
+
+/* components */
+@layer Components {
+  .button {
+    @apply bg-primary text-white py-2 px-4 rounded;
+  }
+  
+  .button:hover {
+    @apply bg-primary-dark;
+  }
+}
+
+/* Additional  components */
+.container {
+  @apply mx-auto p-4;
+}
+
+.card {
+  @apply bg-white rounded-lg shadow p-6 mb-4;
+}
