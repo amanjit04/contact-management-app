@@ -40,13 +40,6 @@ This is a contact management app built using ReactJS, TypeScript, TailwindCSS, R
 4. Start the development server: `npm start`
 5. Open your browser and navigate to `http://localhost:3000` to view the app.
 
-#### Deployment:
-
-The app can be deployed on various free services like Vercel, Github Pages, or Heroku.
-
-#### WireFrames:
-
-[Provide WireFrames here]
 
 #### Additional Notes:
 
@@ -61,4 +54,3 @@ The app can be deployed on various free services like Vercel, Github Pages, or H
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request.
 
-Feel free to reach out if you have any questions or need further assistance!
